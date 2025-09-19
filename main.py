@@ -92,7 +92,7 @@ def analysis_agent(state: GraphState):
 workflow = StateGraph(GraphState)
 
 # Define the list of tools available to the ToolNode
-tools = [get_virustotal_report, check_abuseipdb, get_geoip_location]
+tools = [get_virustotal_report, check_abuseipdb, get_geoip_location, check_vpn_proxy]
 tool_node = ToolNode(tools)
 
 # Add the nodes to the graph
