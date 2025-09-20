@@ -88,8 +88,7 @@ Open your browser at [http://localhost:8501](http://localhost:8501).
 ![Report Output (2)](screen-shots/3.png)  
 
 ## 🎥 Demo  
-
-https://github.com/Ziedao/SOC-alert-triage-X-langgraph/blob/master/screen-shots/demo.mp4?raw=true
+![Demo GIF](https://github.com/Ziedao/SOC-alert-triage-X-langgraph/blob/master/screen-shots/demo.gif)
 
 
 ---
