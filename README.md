@@ -8,6 +8,14 @@ The app provides a **Streamlit web dashboard** where you can paste alerts and in
 
 ---
 
+## 🚀 Try It Now  
+
+👉 **[Live Demo on Streamlit 🚀](https://soc-alert-triage-x-langgraph.streamlit.app/)**  
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://soc-alert-triage-x-langgraph.streamlit.app/)
+
+---
+
 ## 🚀 Features
 - 🧠 Automated triage with **Gemini 2.5 Flash**
 - 🔧 Tool integrations:
