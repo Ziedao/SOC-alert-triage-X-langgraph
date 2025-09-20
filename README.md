@@ -78,6 +78,20 @@ streamlit run web_app.py
 
 Open your browser at [http://localhost:8501](http://localhost:8501).  
 
+### Alert Input  
+![Alert Input](screen-shots/1.png)  
+
+### Report Output  
+![Report Output (1)](screen-shots/2.png)  
+
+### Report Output  
+![Report Output (2)](screen-shots/3.png)  
+
+## 🎥 Demo  
+
+https://github.com/Ziedao/SOC-alert-triage-X-langgraph/blob/master/screen-shots/demo.mp4?raw=true
+
+
 ---
 
 ## 📂 Project Structure  
